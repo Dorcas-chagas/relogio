@@ -7,38 +7,40 @@
 }
 
 body{
-    width: auto;
     margin-left: auto;
     margin-right: auto;
+    width: 80%;
     height: 100vh;
-    background: linear-gradient(120deg, #3bffe2d8, #ff2525da);
+    background:bisque;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .relogio{
+    padding: 5px;
     display: flex;
     align-items: center;
     justify-content: space-around;
     height: 200px;
-    width: 550px;
-    background: transparent;
-    border-radius: 3px;
-    box-shadow: 0px 8px 10px rgba(0,0,0, .5);
+    width: 150%;
+    background: linear-gradient(120deg, #3bffe2d8, #ff2525da);
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px 10px rgba(0, 0, 0, 0.271);
 }
 
 .relogio div{
+    margin: 5px;
     height: 170px;
-    width: 150px;
+    width: 125px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     color: #fff;
     background: rgba(5, 5, 5, 0.9);
-    box-shadow: 5px 15px 15px rgba(0, 0, 0, .7);
-    border-radius: 7px;
+    box-shadow: 5px 15px 15px rgba(255, 255, 255, 0.485);
+    border-radius:5%;
     letter-spacing: 3px;
 }
 
