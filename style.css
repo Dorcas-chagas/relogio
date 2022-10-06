@@ -9,7 +9,6 @@
 body{
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
     height: 100vh;
     background:bisque;
     display: flex;
@@ -23,7 +22,7 @@ body{
     align-items: center;
     justify-content: space-around;
     height: 200px;
-    width: 50%;
+    width: 350px;
     background: linear-gradient(120deg, #3bffe2d8, #ff2525da);
     border-radius: 10px;
     box-shadow: 2px 2px 8px 10px rgba(0, 0, 0, 0.271);
