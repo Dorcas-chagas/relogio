@@ -23,7 +23,7 @@ body{
     align-items: center;
     justify-content: space-around;
     height: 200px;
-    width: 100%;
+    width: 50%;
     background: linear-gradient(120deg, #3bffe2d8, #ff2525da);
     border-radius: 10px;
     box-shadow: 2px 2px 8px 10px rgba(0, 0, 0, 0.271);
